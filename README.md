@@ -22,6 +22,10 @@
 </ul>
 <br>
 <!--FIM descrição-->
+<p align="center" width="500px">
+  <img width="100em" src="https://gifdb.com/images/file/lofi-music-chill-night-studying-garden-lxde4silrpwounpz.gif" />
+</p>
+
 
 <!--INICIO Tecnologias-->
 <br>
