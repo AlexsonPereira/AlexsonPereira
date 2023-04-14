@@ -14,7 +14,7 @@
 <br>
 <li>🚀 Ao concluir o ensino medio, ja inicie meus preparativos para dedicar a minha carreira na area de tecnologia, atualmente estou cursando Desenvolvimento Web Full-Stack na Kenzie Academy Brasil, curso com mais de 2000 h de duração, com metodologia de ensino que simula o ambiente de trabalho com diversos projetos em equipe, e com utilização da metodologia SCRUM, com desenvolvimento de softs skills e hards skills.🚀</li><br>
 <br>
-<li>👩‍💻 Atualmente sou Desenvolvedor Full Stack, e estou estudando python para aplicação no back end.</li>
+<li>👩‍💻 Atualmente sou Desenvolvedor Full Stack, e estou estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
 <br>
 <li>🎓 Tenho conhecimento em HTML, CSS, JavaScript, React, React Native, NodeJS, ExpressJs, TypeORM, PostgreSQL, Python, Django e conhecimento em UX UI.  </li>
 <br>
