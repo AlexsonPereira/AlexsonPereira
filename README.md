@@ -16,7 +16,9 @@
 <br>
 <li>👩‍💻 Atualmente sou Desenvolvedor Full Stack, e estou estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
 <br>
-<li>🎓 Tenho conhecimento em HTML, CSS, JavaScript, React, React Native, NodeJS, ExpressJs, TypeORM, PostgreSQL, Python, Django e conhecimento em UX UI.  </li>
+<li>📗Estou Cursando Analise e Desenvolvimento de sistemas no IF Baiano.  </li>
+<br>
+<li>💾Tenho conhecimento em HTML, CSS, JavaScript, React, React Native, NodeJS, ExpressJs, TypeORM, PostgreSQL, Python, Django e conhecimento em UX UI.  </li>
 <br>
 <li>💻 Atualmente buscando minha primeira oportunidade tanto de front, back ou full stack. </li>
 </ul>
