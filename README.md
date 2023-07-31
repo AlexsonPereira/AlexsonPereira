@@ -12,7 +12,7 @@
 <ul align="left">
 <li>📍Sou de Licinio de Almeida - BA e tenho 19 anos </li>
 <br>
-<li>🚀 Ao concluir o ensino medio, ja inicie meus preparativos para dedicar a minha carreira na area de tecnologia, atualmente estou cursando Desenvolvimento Web Full-Stack na Kenzie Academy Brasil, curso com mais de 2000 h de duração, com metodologia de ensino que simula o ambiente de trabalho com diversos projetos em equipe, e com utilização da metodologia SCRUM, com desenvolvimento de softs skills e hards skills.🚀</li><br>
+<li>🚀 Ao concluir o ensino medio, ja inicie meus preparativos para dedicar a minha carreira na area de tecnologia, atualmente sou Desenvolvedor Web Full-Stack formado pela Kenzie Academy Brasil, curso com mais de 2000 h de duração, com metodologia de ensino que simula o ambiente de trabalho com diversos projetos em equipe, e com utilização da metodologia SCRUM, com desenvolvimento de softs skills e hards skills.🚀</li><br>
 <br>
 <li>👩‍💻 Atualmente sou Desenvolvedor Full Stack, e estou estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
 <br>
