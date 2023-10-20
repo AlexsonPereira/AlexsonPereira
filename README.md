@@ -34,7 +34,7 @@
 <h2 align="center">🛠️&ensp; <i>T E C N O L O G I A S</i> &ensp;🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,ts,nodejs,express,postgresql,jest,vercel,vscode,figma,styledcomponents,tailwind&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,ts,nodejs,express,postgresql,jest,vercel,vscode,figma,styledcomponents,tailwind,c,django,prisma&perline=8" />
   </a>
 </p>
 <br><br><br><br><br>
