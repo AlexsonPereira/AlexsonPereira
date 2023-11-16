@@ -10,7 +10,7 @@
 ## Olá, Me chamo Alexson Pereira . :)
 
 <ul align="left">
-<li>📍Sou de Licinio de Almeida - BA e tenho 19 anos </li>
+<li>📍Sou de Guanambi - BA e tenho 19 anos </li>
 <br>
 <li>🚀 Ao concluir o ensino medio, ja inicie meus preparativos para dedicar a minha carreira na area de tecnologia, atualmente sou Desenvolvedor Web Full-Stack formado pela Kenzie Academy Brasil, curso com mais de 2000 h de duração, com metodologia de ensino que simula o ambiente de trabalho com diversos projetos em equipe, e com utilização da metodologia SCRUM, com desenvolvimento de softs skills e hards skills.🚀</li><br>
 <br>
@@ -18,7 +18,7 @@
 <br>
 <li>📗Estou Cursando Analise e Desenvolvimento de sistemas no IF Baiano.  </li>
 <br>
-<li>💾Tenho conhecimento em HTML, CSS, JavaScript, React, React Native, NodeJS, ExpressJs, TypeORM, PostgreSQL, Python, Django e conhecimento em UX UI.  </li>
+<li>💾Tenho conhecimento em HTML, CSS, JavaScript, React, React Native, NodeJS, ExpressJs, PostgreSQL, Python, Django e conhecimento em UX UI.  </li>
 <br>
 <li>💻 Atualmente buscando minha primeira oportunidade tanto de front, back ou full stack. </li>
 </ul>
