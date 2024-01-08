@@ -12,7 +12,7 @@
 <ul align="left">
 <li>📍Sou de Guanambi - BA e tenho 19 anos </li>
 <br>
-<li>👩‍💻 Atualmente sou Desenvolvedor Full Stack, e estou estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
+<li>👩‍💻 Atualmente sou Desenvolvedor Front End, e estou estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
 <br>
 <li>📗Estou Cursando Analise e Desenvolvimento de sistemas no IF Baiano.  </li>
 <br>
