@@ -10,7 +10,7 @@
 ## Olá, Me chamo Alexson Pereira . :)
 
 <ul align="left">
-<li>📍Sou de Guanambi - BA e tenho 19 anos </li>
+<li>📍Sou de Guanambi - BA e tenho 20 anos </li>
 <br>
 <li>👩‍💻 Atualmente sou Desenvolvedor Front End, e estou estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
 <br>
